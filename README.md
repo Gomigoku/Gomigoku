@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gouthami Suvarna
+- 👋 Hi, I’m Gouthami Suvarna, Software Developer at Glow Touch Technologies Pvt Ltd, Mangalore.
 - 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning javascript and reactjs.
+- 🌱 I’m currently learning Javascript and Reactjs.
 - 💞️ I’m looking to collaborate on javascript.
 - 📫 Reach me at gouthamisuvarna123@gmail.com
 
