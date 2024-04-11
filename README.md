@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Gouthami Suvarna, Software Developer at Glow Touch Technologies Pvt Ltd, Mangalore.
+### Hi, I'm Gouthami!
+
+- 👋 Hi, I’m Gouthami Poojary, Software Developer at Glow Touch Technologies Pvt Ltd, Mangalore.
 - 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning Javascript and Reactjs.
-- 💞️ I’m looking to collaborate on javascript.
+- 🌱 I’m currently learning Javascript and Reactjs and Java.
+- 💞️ I’m looking to collaborate on Javascript.
 - 📫 Reach me at gouthamisuvarna123@gmail.com
 
-<!---
-Gomigoku/Gomigoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![Gouthami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomigoku&show_icons=true&theme=cobalt)
+
